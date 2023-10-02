@@ -6,7 +6,7 @@ body{
 
 h1{
     text-align: center;
-    color:rgb(235, 38, 38)
+    color:rgb(0, 0, 0)
 }
 
 p{
@@ -16,6 +16,7 @@ p{
 
 
 #missão{
-   color: rgb(235, 38, 38)
+   color: rgb(235, 38, 38);
+   font-size: 18px;
 
 }
