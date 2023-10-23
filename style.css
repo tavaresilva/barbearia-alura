@@ -27,6 +27,16 @@ img{
   width: 100%;
 
 }
+.benecios-titulo{
+    text-align:center
 
+}
+.itens{
 
-    
+    font-style:italic;
+}
+
+.beneficios{
+    background:white;
+}
+
