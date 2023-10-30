@@ -1,42 +1,20 @@
-body{
-
-    background: rgb(244, 247, 203) ;
-     
-}
-
-h1{
+body {
+    background: #CCCCCC;
+    }
+    
+    h1 {
     text-align: center;
-    color:rgb(0, 0, 0)  
-}
-
-p{
-
- text-align: center;
-}
-
-
-#missão{
-   color: rgb(235, 38, 38);
-   font-size: 18px;
-
-}
-img{
-    image-rendering: center;
-}
-#banner{
-  width: 100%;
-
-}
-.benecios-titulo{
-    text-align:center
-
-}
-.itens{
-
-    font-style:italic;
-}
-
-.beneficios{
-    background:white;
-}
-
+    }
+    
+    p {
+    text-align: center;
+    }
+    
+    #missao {
+    color: red;
+    font-size: 18px;
+    }
+    
+    #banner {
+    width: 100%;
+    }
