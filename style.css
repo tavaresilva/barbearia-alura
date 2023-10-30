@@ -18,12 +18,17 @@ body {
     #banner {
     width: 100%;
     }
-    .beneficios-titulo{
+    .beneficios-titulo {
         text-align: center;
     }
     .itens{
         font-style: italic;
     }
-    .beneficios{
+    .beneficios {
         background:#ffffff;
+    }
+
+    ul {
+       display: inline-block;
+       width: 20%;
     }
